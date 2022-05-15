@@ -43,4 +43,15 @@ This section was dedicated completely to highlighting the look of our data.
 
 We first started with some statiscs that interested us, for example how the music industry increased over the years and what are the most popular music genres.
 
+![nr-songs-per-year](https://user-images.githubusercontent.com/48510687/168493691-b22c5a04-03cd-47ed-b417-9e2fd443e4fa.PNG)
 
+![music-genres-pie-plot-interactive](https://user-images.githubusercontent.com/48510687/168493710-9a2ae0ed-33aa-4784-aaef-7397553ad7bc.png)
+
+Then we made progress in the direction of preparing and analyzing the data when it comes to solving a Machine Learning Task. For this matter, we were interested in the *features correlation* and *features distribution* in our dataset.
+
+* Heatmap Correlation Matrix
+![heatmap-correlation-matrix](https://user-images.githubusercontent.com/48510687/168493806-ea5abc40-2748-41e4-82f7-6e5dcc3d1a7f.PNG)
+
+* Features Distribution Plot
+
+![features-distribution](https://user-images.githubusercontent.com/48510687/168493871-16b9e915-cb50-47c5-b2e0-fba24eb52365.PNG)
