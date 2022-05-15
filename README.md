@@ -36,3 +36,11 @@ Name Column Type
 
 ## Data Preprocessing
 In this section we did a little preprocessing of the main working dataset file, *data.csv*. We excluded the columns that did not present any interest, like the *song's id*, representing only an identification string and also *song's release_date* since we already had the *year* column.
+
+
+## Data Visualization
+This section was dedicated completely to highlighting the look of our data.
+
+We first started with some statiscs that interested us, for example how the music industry increased over the years and what are the most popular music genres.
+
+
