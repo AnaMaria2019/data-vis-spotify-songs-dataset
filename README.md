@@ -11,25 +11,27 @@ The dataset contains more *.csv* files in which we can find a lot of characteris
 In this list of features we have:
 
 *data.csv* file:
-Name Column Type
-*   valence - *float* \[0, 1] interval
-*   year - *int* \[1921, 2020] interval
-*   acousticness - *float* \[0, 1] interval
-*   artists - *string* list of the song's artists
-*   danceability - *float* \[0, 1] interval
-*   duration_ms - *int*
-*   energy - *float* \[0, 1] interval
-*   explicit - possible values: {0, 1}
-*   id - *string*
-*   instrumentalness - *float* \[0, 1] interval
-*   key - possible values: from 0 to 11
-*   liveness - *float* \[0, 1] interval
-*   loudness - *float* \[0, 1] interval
-*   mode - possible values: {0, 1}
-*   popularity - possible values: from 0 to 100
-*   release_date - *date*
-*   speechiness - *float* \[0, 1] interval
-*   tempo - *float* \[0, 1] interval
+| Feature Name | Description |
+| --- | --- |
+| valence | *float* \[0, 1] interval |
+| year | *int* \[1921, 2020] interval |
+| acousticness | *float* \[0, 1] interval |
+| artists | *string* list of the song's artists |
+| danceability | *float* \[0, 1] interval |
+| duration_ms | *int* |
+| energy | *float* \[0, 1] interval |
+| explicit | possible values: {0, 1} |
+| id | *string* |
+| instrumentalness | *float* \[0, 1] interval |
+| key | possible values: from 0 to 11 |
+| liveness | *float* \[0, 1] interval |
+| loudness | *float* \[0, 1] interval |
+| mode | possible values: {0, 1} |
+| popularity | possible values: from 0 to 100 |
+| release_date | *date* |
+| speechiness | *float* \[0, 1] interval |
+| tempo | *float* \[0, 1] interval |
+
 
 *genre_music.csv* file - has in general the same song features, but it also includes the music *genre* of the songs 
 
