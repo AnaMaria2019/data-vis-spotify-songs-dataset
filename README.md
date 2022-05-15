@@ -62,3 +62,13 @@ Then we made progress in the direction of preparing and analyzing the data when 
 
 * *key* feature pie plot and histogram plot:
 ![key-feature-subplots](https://user-images.githubusercontent.com/48510687/168493991-9e27788a-4fc0-492f-87fa-265ff5494b6f.png)
+
+* 3D Plot that illustrates the *danceability*, *tempo* and *acousticness* features
+![3d_scatterplot_daceability_tempo_acousticness](https://user-images.githubusercontent.com/48510687/168494124-1dd8b105-77c2-4bfc-a0c8-89c59466038e.png)
+
+* Dendogram - Song Names based on Sections and Keys
+![song_names_dendogram_based_on_sections_and_keys](https://user-images.githubusercontent.com/48510687/168494192-42f6997c-a228-440d-b917-12fee67834f9.png)
+
+* Violin plot - *energy* feature
+
+![violin_plot_energy](https://user-images.githubusercontent.com/48510687/168494228-11210c36-0a87-4b13-ab60-e6814cc62fef.png)
