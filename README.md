@@ -72,3 +72,7 @@ Then we made progress in the direction of preparing and analyzing the data when 
 * Violin plot - *energy* feature
 
 ![violin_plot_energy](https://user-images.githubusercontent.com/48510687/168494228-11210c36-0a87-4b13-ab60-e6814cc62fef.png)
+
+
+## Conclusion
+In this project we focused on learning and finding about different type of plots that, only by visualization, it could make our data more understandle.
