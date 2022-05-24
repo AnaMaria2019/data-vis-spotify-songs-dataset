@@ -3,10 +3,10 @@
 This project was developed for Data Visualization course's project.
 
 ## Dataset Selection
-We chose a dataset on a subject which all team's members were excied to explore and in the same time could give us a diversification in the number of plot types that we could build.
+We chose a dataset on a subject which all team's members were excited to explore and in the same time could give us a diversification in the number of plot types that we could build.
 
-The subject we all agreed on was music. We looked over the internet and found some interesting dataset provided by the well-known music platform, Spotify.
-The dataset contains more *.csv* files in which we can find a lot of characteriscs for a song.
+The subject we all agreed on was music. We looked over the internet and found an interesting dataset provided by the well-known music platform, Spotify.
+The dataset contains more *.csv* files in which we can find a lot of characteristics for a song.
 
 In this list of features we have:
 
@@ -77,4 +77,4 @@ Then we made progress in the direction of preparing and analyzing the data when 
 
 
 ## Conclusion
-In this project we focused on learning and finding about different type of plots that, only by visualization, it could make our data more understandle.
+In this project we focused on learning and finding about different type of plots that, only by visualization, it could make our data more understandable.
